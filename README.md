@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-2E8B57?style=flat"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
@@ -64,7 +65,6 @@
 
 <p>
   <!-- Packages & Techniques -->
-  <img src="https://img.shields.io/badge/Statsmodels-2E8B57?style=flat"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4500?style=flat"/>
   <img src="https://img.shields.io/badge/Data%20Cleaning-1E90FF?style=flat"/>
   <img src="https://img.shields.io/badge/Data%20Preprocessing-9370DB?style=flat"/>
@@ -126,6 +126,13 @@
   <img src="https://img.shields.io/badge/Moving%20Average-FF8C00?style=flat"/>
   <img src="https://img.shields.io/badge/Prophet-FF1493?style=flat"/>
 </p>
+
+
+### 📈 BI & Visualization  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
