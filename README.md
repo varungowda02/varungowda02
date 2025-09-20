@@ -33,34 +33,87 @@
 ---
 
 ### 📊 Data Science & Machine Learning  
+
 <p>
+  <!-- Libraries & Packages -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
 </p>  
 
-#### 🧠 Core Concepts  
-<p>
-  <img src="https://img.shields.io/badge/Statistics-4E79A7?style=flat&logo=GoogleAnalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Probability-76B041?style=flat&logo=googlesheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-DD4124?style=flat&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EDA-FFB000?style=flat&logo=dependabot&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ML%20Algorithms-8E44AD?style=flat&logo=googlecolab&logoColor=white"/>
-</p>  
-
 ---
 
-### 📈 BI & Visualization  
+#### 🧠 Core Concepts & Algorithms
+
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-</p>  
+  <!-- Packages & Techniques -->
+  <img src="https://img.shields.io/badge/Statsmodels-2E8B57?style=flat"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4500?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-1E90FF?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-9370DB?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF8C00?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Modelling-20B2AA?style=flat"/>
+  <img src="https://img.shields.io/badge/Statistics-8A2BE2?style=flat"/>
+  <img src="https://img.shields.io/badge/Probability-FF69B4?style=flat"/>
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-00CED1?style=flat"/>
+</p>
+
+<p>
+  <!-- Classification -->
+  <img src="https://img.shields.io/badge/Naive%20Bayes-FFD700?style=flat"/>
+  <img src="https://img.shields.io/badge/KNN-FF6347?style=flat"/>
+  <img src="https://img.shields.io/badge/SVM-00CED1?style=flat"/>
+  <img src="https://img.shields.io/badge/Decision%20Tree-ADFF2F?style=flat"/>
+  <img src="https://img.shields.io/badge/Random%20Forest-8B0000?style=flat"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF8C00?style=flat"/>
+  <img src="https://img.shields.io/badge/LightGBM-32CD32?style=flat"/>
+</p>
+
+<p>
+  <!-- Regression -->
+  <img src="https://img.shields.io/badge/Linear%20Regression-4682B4?style=flat"/>
+  <img src="https://img.shields.io/badge/Multiple%20Linear%20Regression-6A5ACD?style=flat"/>
+  <img src="https://img.shields.io/badge/Ridge%20Regression-20B2AA?style=flat"/>
+  <img src="https://img.shields.io/badge/Lasso%20Regression-FF1493?style=flat"/>
+  <img src="https://img.shields.io/badge/SVR-FF4500?style=flat"/>
+  <img src="https://img.shields.io/badge/Gradient%20Descent-1E90FF?style=flat"/>
+</p>
+
+<p>
+  <!-- Clustering -->
+  <img src="https://img.shields.io/badge/K-Means-DAA520?style=flat"/>
+  <img src="https://img.shields.io/badge/Hierarchical-FF69B4?style=flat"/>
+  <img src="https://img.shields.io/badge/DBSCAN-1E90FF?style=flat"/>
+</p>
+
+<p>
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/CNN-DC143C?style=flat"/>
+  <img src="https://img.shields.io/badge/RNN-8B008B?style=flat"/>
+  <img src="https://img.shields.io/badge/LSTM-FF4500?style=flat"/>
+  <img src="https://img.shields.io/badge/GRU-8B008B?style=flat"/>
+</p>
+
+<p>
+  <!-- NLP & Text Techniques -->
+  <img src="https://img.shields.io/badge/NLP-20B2AA?style=flat"/>
+  <img src="https://img.shields.io/badge/TF-IDF-DAA520?style=flat"/>
+  <img src="https://img.shields.io/badge/Word%20Embeddings-FF1493?style=flat"/>
+</p>
+
+<p>
+  <!-- Forecasting / Time Series Models -->
+  <img src="https://img.shields.io/badge/ARIMA-4682B4?style=flat"/>
+  <img src="https://img.shields.io/badge/Exponential%20Smoothing-6A5ACD?style=flat"/>
+  <img src="https://img.shields.io/badge/Holt-Winters-20B2AA?style=flat"/>
+  <img src="https://img.shields.io/badge/Moving%20Average-FF8C00?style=flat"/>
+  <img src="https://img.shields.io/badge/Prophet-FF1493?style=flat"/>
+</p>
 
 ---
 
