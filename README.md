@@ -7,6 +7,18 @@
 
 ---
 
+<div style="line-height:1; font-family:inherit;">
+  <!-- Top line: "passionate to be" in cursive -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=28&pause=50&duration=500&color=FF69B4&width=350&lines=passionate%20to%20be&repeat=false" />
+
+  <br>
+
+  <!-- Bottom line: "Data" + animated roles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=50&duration=250&color=00FFFF&width=85&lines=Data&repeat=false" style="vertical-align:middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&duration=2500&color=00FFFF&width=250&lines=Scientist;Analyst;Engineer&center=false&repeat=true" style="vertical-align:middle; margin-left:2px;" />
+</div>
+
+---
 ## 🌐 Socials
 <p>
   <a href="https://www.linkedin.com/in/varun-gowda-s/">
